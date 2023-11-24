@@ -10,5 +10,5 @@ app.listen(PORT, () => {
 })
 
 app.get('/', (req, res) => {
-    res.send("Got '/'!");
+    res.sendFile(__dirname + "/public/index.html");
 })
