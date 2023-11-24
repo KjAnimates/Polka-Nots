@@ -1,0 +1,17 @@
+{
+  "name": "polka-nots",
+  "version": "1.0.0",
+  "description": "Fun but simple game!",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/KjAnimates/Polka-Nots"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "KjAnimates",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
